@@ -332,7 +332,6 @@ github.com/jmespath/go-jmespath
 github.com/jmoiron/sqlx
 github.com/jmoiron/sqlx/reflectx
 # github.com/jonboulle/clockwork v0.2.2
-## explicit
 github.com/jonboulle/clockwork
 # github.com/josharian/intern v1.0.0
 github.com/josharian/intern
@@ -353,10 +352,6 @@ github.com/klauspost/cpuid/v2
 # github.com/klauspost/pgzip v1.2.5
 ## explicit
 github.com/klauspost/pgzip
-# github.com/kr/pretty v0.2.0
-## explicit
-# github.com/kr/text v0.2.0
-## explicit
 # github.com/lann/builder v0.0.0-20180802200727-47ae307949d0
 github.com/lann/builder
 # github.com/lann/ps v0.0.0-20150810152359-62de8c46ede0
@@ -505,7 +500,6 @@ github.com/prometheus/client_golang/prometheus
 github.com/prometheus/client_golang/prometheus/internal
 github.com/prometheus/client_golang/prometheus/promhttp
 # github.com/prometheus/client_model v0.2.0
-## explicit
 github.com/prometheus/client_model/go
 # github.com/prometheus/common v0.20.0
 ## explicit
@@ -530,7 +524,7 @@ github.com/rs/xid
 # github.com/rudderlabs/analytics-go v3.3.1+incompatible
 ## explicit
 github.com/rudderlabs/analytics-go
-# github.com/russellhaering/goxmldsig v1.1.0
+# github.com/russellhaering/goxmldsig v1.1.1
 ## explicit
 github.com/russellhaering/goxmldsig
 github.com/russellhaering/goxmldsig/etreeutils
@@ -935,7 +929,6 @@ gopkg.in/olivere/elastic.v6
 ## explicit
 gopkg.in/yaml.v2
 # gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
-## explicit
 gopkg.in/yaml.v3
 # willnorris.com/go/gifresize v1.0.0
 willnorris.com/go/gifresize
