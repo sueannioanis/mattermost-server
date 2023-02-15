@@ -19,6 +19,7 @@ require (
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/blevesearch/bleve v1.0.14
 	github.com/cespare/xxhash/v2 v2.1.1
+	github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd // indirect
 	github.com/corpix/uarand v0.1.1 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/dgryski/dgoogauth v0.0.0-20190221195224-5a805980a5f3
@@ -61,7 +62,7 @@ require (
 	github.com/icrowley/fake v0.0.0-20180203215853-4178557ae428
 	github.com/jaytaylor/html2text v0.0.0-20200412013138-3577fbdbcff7
 	github.com/jmoiron/sqlx v1.3.1
-	github.com/jonboulle/clockwork v0.2.2
+	github.com/jonboulle/clockwork v0.2.2 // indirect
 	github.com/klauspost/compress v1.11.12 // indirect
 	github.com/klauspost/cpuid/v2 v2.0.5 // indirect
 	github.com/klauspost/pgzip v1.2.5 // indirect
@@ -93,14 +94,12 @@ require (
 	github.com/pelletier/go-toml v1.8.1 // indirect
 	github.com/pierrec/lz4/v4 v4.1.4 // indirect
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.10.0
-	github.com/prometheus/client_model v0.2.0
-	github.com/prometheus/common v0.20.0 // indirect
+	github.com/prometheus/client_golang v1.11.1
 	github.com/reflog/dateconstraints v0.2.1
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/rs/cors v1.7.0
 	github.com/rudderlabs/analytics-go v3.3.1+incompatible
-	github.com/russellhaering/goxmldsig v1.1.0
+	github.com/russellhaering/goxmldsig v1.1.0 // indirect
 	github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd
 	github.com/segmentio/backo-go v0.0.0-20200129164019-23eae7c10bd3 // indirect
 	github.com/sirupsen/logrus v1.8.1
@@ -130,7 +129,6 @@ require (
 	golang.org/x/mod v0.4.2 // indirect
 	golang.org/x/net v0.0.0-20210316092652-d523dce5a7f4
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4 // indirect
 	golang.org/x/text v0.3.5
 	golang.org/x/tools v0.1.0
 	google.golang.org/genproto v0.0.0-20210322173543-5f0e89347f5a // indirect
